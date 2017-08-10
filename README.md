@@ -1,6 +1,6 @@
 
 
-thirdparty蜂鸟配送Api,node接口
+蜂鸟配送Api,node接口
 
 ## Installation
 
