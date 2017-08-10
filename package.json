@@ -1,13 +1,18 @@
 {
-  "name": "thirdparty",
-  "version": "1.0.0",
+  "name": "qingyuexi-thirdparty",
+  "version": "1.0.1",
   "description": "蜂鸟配送Api",
   "main": "index.js",
   "scripts": {
     "start": "node test/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingyuexi/thirdparty.git"
+  },
   "keywords": [
+    "qingyuexi",
     "thirdparty"
   ],
   "author": "qingyuexi",
