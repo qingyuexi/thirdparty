@@ -8,7 +8,7 @@
 ### 使用说明
 ```
 const moment = require("moment");
-const thirdparty_api = require("./../index");
+const thirdparty_api = require("qingyuexi-thirdparty");
 
 const APP_ID = "ab54b298-a776-4ca7-85b0-9f47080d1c15"; //填入正确的app_id
 const SECRET_KEY = "0e6830e4-162f-41d4-afc1-919ab38e7afa"; // 填入正确的secret_key
@@ -32,7 +32,7 @@ const DEBUG = true; //调试模式
 			transport_longitude: 113.66684139, //取货点经度，取值范围0～180
 			transport_latitude: 34.80913468, //取货点纬度，取值范围0～90
 			position_source: 3, //取货点经纬度来源, 1:腾讯地图, 2:百度地图, 3:高德地图
-			transport_tel: "18538753627", //取货点联系方式, 只支持手机号,400开头电话以及座机号码
+			transport_tel: "18538253627", //取货点联系方式, 只支持手机号,400开头电话以及座机号码
 			transport_remark: "测试" //取货点备注
 		},
 		order_add_time: moment().valueOf(), //下单时间(毫秒)

@@ -1,6 +1,6 @@
 {
   "name": "qingyuexi-thirdparty",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "蜂鸟配送Api",
   "main": "index.js",
   "scripts": {

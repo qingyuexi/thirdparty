@@ -1,5 +1,5 @@
 const moment = require("moment");
-const thirdparty_api = require("./../index");
+const thirdparty_api = require("qingyuexi-thirdparty");
 
 const APP_ID = "ab54b298-a776-4ca7-85b0-9f47080d1c15"; //填入正确的app_id
 const SECRET_KEY = "0e6830e4-162f-41d4-afc1-919ab38e7afa"; // 填入正确的secret_key
